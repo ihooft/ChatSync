@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: ChatSync
+## Notes: Synchronizes chat window settings between characters.
+## Author: Isaac
+## Version: 0.1.0
+## SavedVariables: ChatSyncDB
+
+ChatSync.lua
